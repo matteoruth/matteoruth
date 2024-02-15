@@ -3,7 +3,7 @@
 ---
 I am a Master student in Data Science and Engineering
 
-- My CV can be found here :
+- My CV can be found [here](https://github.com/matteoruth/matteoruth/blob/main/CV-matteoruth.pdf)
 - I love history, football, and statistics
 
 
