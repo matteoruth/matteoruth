@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+---
+I am a Master student in Data Science and Engineering
+
+- My CV can be found here :
+- I love history, football, and statistics
+
+
 <!--
 **matteoruth/matteoruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
