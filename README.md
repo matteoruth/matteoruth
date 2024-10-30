@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 ---
-I am a Master student in Data Science and Engineering
+I am Matteo Ruth, a research engineer at the GeoResources, Mineral Engineering, and Extractive Metallurgy Laboratory @ University of Liège (ULiège). My work focuses on using innovative technology such as neural networks and LIBS scanning to improve metal scrap sorting.
 
-- My CV can be found [here](https://github.com/matteoruth/matteoruth/blob/main/CV-matteoruth.pdf)
-- I love history, football, and statistics
-
+- 💼 My CV can be found [here](https://github.com/matteoruth/matteoruth/blob/main/CV-matteoruth.pdf)
+- 🔭 Outside of work, I’m currently working on neural posterior estimation for exoplanetary orbital parameters characterisation
+- ⚽️ I enjoy history, football, and diving into statistics for both research and fun
 
 <!--
 **matteoruth/matteoruth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-   ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
